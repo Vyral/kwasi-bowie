@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Should You Consider Selling This Fall or Winter?
-date: 2019-03-18 20:35:10
+date: 2018-10-11 20:35:00
 tags:
 excerpt: >-
   Spring and summer aren’t the only times you can find success in the

@@ -18,7 +18,7 @@ youtube_code: 7wMHYkhxq8k
 
 {% include youtube.html %}
 
-Rising property taxes here in Seattle means different things for homeowners and homebuyers.
+<p style="text-align: center;"><em>Rising property taxes here in Seattle means different things for homeowners and homebuyers.</em></p>
 
 According to a recent article in the Seattle Times, property taxes in our area our about to go up. The area with the lowest average property tax that the article cited was Normandy Park, at a little over 9%. The area with the highest average was Carnation, at a little over 31%.
 

@@ -18,7 +18,7 @@ youtube_code: gzhMFfIkUU8
 
 {% include youtube.html %}
 
-A pre-approval isn’t enough to set you apart from other homebuyers anymore. Here’s the next step you should take.
+<p style="text-align: center;"><em>A pre-approval isn’t enough to set you apart from other homebuyers anymore. Here’s the next step you should take.</em></p>
 
 Look, as fast as this market is moving, you need to have a competitive edge. There are multiple offer situations all over the place, and you want your offer to give you that competitive edge against other buyers. **Here’s how you can get it.**
 

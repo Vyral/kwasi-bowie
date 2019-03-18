@@ -17,7 +17,7 @@ youtube_code: ybBw8R1wKh0
 
 {% include youtube.html %}
 
-Whether you’re a buyer or a seller, the stats from this market update are important to know.
+<p style="text-align: center;"><em>Whether you’re a buyer or a seller, the stats from this market update are important to know.</em></p>
 
 I’m back with your March 2018 market update, and I have some important stats to share, whether you’re a buyer or a seller.
 

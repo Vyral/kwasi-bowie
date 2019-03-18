@@ -20,7 +20,7 @@ youtube_code: XFOwSw6a6XI
 
 {% include youtube.html %}
 
-Inventory is increasing and sales have leveled off in our market. This means we should see an upcoming downward pressure on prices.
+<p style="text-align: center;"><em>Inventory is increasing and sales have leveled off in our market. This means we should see an upcoming downward pressure on prices.</em></p>
 
 What’s the latest news from our market?
 

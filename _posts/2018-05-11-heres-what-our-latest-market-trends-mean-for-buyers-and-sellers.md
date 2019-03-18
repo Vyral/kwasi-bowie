@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Here’s What Our Latest Market Trends Mean for Buyers and Sellers
-date: 2019-03-18 20:22:22
+date: 2018-05-11 20:22:00
 tags:
   - Market Update
 excerpt: >-

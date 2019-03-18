@@ -19,7 +19,7 @@ youtube_code: K7gwIDn241A
 
 {% include youtube.html %}
 
-What’s the real value of a strong credit score? And how can you successfully improve yours? Find out the answers to these and other questions in today’s message.
+<p style="text-align: center;"><em>What’s the real value of a strong credit score? And how can you successfully improve yours? Find out the answers to these and other questions in today’s message.</em></p>
 
 Recently I had the chance to sit down and speak with Serge Bagdasarov from LSI Credit Solutions to tackle a question that all of us have asked at one point or another: How do you improve your credit score?
 

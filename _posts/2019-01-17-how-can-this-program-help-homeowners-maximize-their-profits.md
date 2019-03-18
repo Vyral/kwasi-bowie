@@ -19,7 +19,7 @@ youtube_code: DZf8iSORnYc
 
 {% include youtube.html %}
 
-If you’re thinking about selling your home, we’ve got an exciting program to talk to you about today. The best part about it is that there’s no risk or cost involved on your part.
+<p style="text-align: center;"><em>If you’re thinking about selling your home, we’ve got an exciting program to talk to you about today. The best part about it is that there’s no risk or cost involved on your part.</em></p>
 
 Today I’m excited to talk to you about a cool new way to maximize the profit of your home sale. It’s actually a program we have at our company where we front the costs for you to make repairs and improvements in your home in order to get it sold for the most amount of money. **This comes with no risk and no cost to you as a homeowner.**
 

@@ -20,7 +20,7 @@ youtube_code: xTjDJT6pYNI
 
 {% include youtube.html %}
 
-After taking some time off, I’m back today to announce the reason for my absence.
+<p style="text-align: center;"><em>After taking some time off, I’m back today to announce the reason for my absence.</em></p>
 
 I know I haven’t updated you all on the market in a while, but there’s a very good reason why I’ve been gone. **On July 17, my wife and I were blessed with two beautiful twins.**
 

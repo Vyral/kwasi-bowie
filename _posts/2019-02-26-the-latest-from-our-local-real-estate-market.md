@@ -18,7 +18,7 @@ youtube_code: jUcOfPNlMXk
 
 {% include youtube.html %}
 
-Here’s your February real estate market update.
+<p style="text-align: center;"><em>Here’s your February real estate market update.</em></p>
 
 In King County, we’ve seen an increase in the number of homes for sale by 123%. Now, in Seattle, we've seen an increase of 131%.
 

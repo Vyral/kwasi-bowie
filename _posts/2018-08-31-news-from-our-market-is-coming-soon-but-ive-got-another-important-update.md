@@ -20,6 +20,8 @@ youtube_code: xTjDJT6pYNI
 
 {% include youtube.html %}
 
+After taking some time off, I’m back today to announce the reason for my absence.
+
 I know I haven’t updated you all on the market in a while, but there’s a very good reason why I’ve been gone. **On July 17, my wife and I were blessed with two beautiful twins.**
 
 Kash Lawrence came into the world at 4:31 p.m. that Tuesday evening at 6 pounds 7.8 ounces and 17 ¾ inches, and his sister London Jane joined him soon after at 4:40 p.m., measuring at 6 pounds 9.6 ounces and 19 inches long.

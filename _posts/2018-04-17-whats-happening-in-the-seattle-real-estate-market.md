@@ -18,7 +18,7 @@ youtube_code: zOSST88GGNA
 
 {% include youtube.html %}
 
-I’ve got a quick market update for you today. Here’s what’s going on in Seattle and King County.
+<p style="text-align: center;"><em>I’ve got a quick market update for you today. Here’s what’s going on in Seattle and King County.</em></p>
 
 **Today I’ve got your April real estate market update for the Seattle area.** Let’s get right to it.
 

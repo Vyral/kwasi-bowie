@@ -20,7 +20,7 @@ youtube_code: ANC259cOaHM
 
 {% include youtube.html %}
 
-With all the hype about the article in the Seattle Times that mentioned dropping home prices and rising inventory, I want to update you on what’s actually going on in the market.
+<p style="text-align: center;"><em>With all the hype about the article in the Seattle Times that mentioned dropping home prices and rising inventory, I want to update you on what’s actually going on in the market.</em></p>
 
 There’s been a lot of buzz about the Seattle Times article [saying](https://www.seattletimes.com/business/real-estate/seattle-home-prices-drop-by-70000-in-three-months-as-market-cooldown-continues/){: target="_blank"} that the median home price in Seattle has dropped by $70,000 in the last three months, and that there was 66% more inventory in the market.
 

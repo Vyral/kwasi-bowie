@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Planning Ahead for the Spring Market
-date: 2019-03-18 20:16:03
+date: 2018-03-12 20:16:03
 tags:
 excerpt: >-
   Whether you’re a buyer or a seller, the stats from this market update are

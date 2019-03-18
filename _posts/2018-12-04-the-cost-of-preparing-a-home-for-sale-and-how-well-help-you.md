@@ -20,7 +20,7 @@ youtube_code: YzeV0ZsRFcc
 
 {% include youtube.html %}
 
-Preparing a home for sale costs money that sellers may not have, which is why we’re offering to help.
+<p style="text-align: center;"><em>Preparing a home for sale costs money that sellers may not have, which is why we’re offering to help.</em></p>
 
 In order for a home to sell quickly and for top dollar, there are some things that must be done to prepare. However, homeowners often underestimate the amount they’ll have to spend to get their property ready for sale. Today we’ll talk about the costs you’ll have when preparing your home to sell for its highest price possible. **You’ll be paying for:**
 

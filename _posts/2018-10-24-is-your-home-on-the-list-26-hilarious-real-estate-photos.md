@@ -20,7 +20,7 @@ youtube_code: osUVVQFyO7c
 
 {% include youtube.html %}
 
-<p sty;e="text-align: center;"><em>These real estate photos are hilarious, but also show us some pitfalls to avoid. See what to look out for.</em></p>
+<p style="text-align: center;"><em>These real estate photos are hilarious, but also show us some pitfalls to avoid. See what to look out for.</em></p>
 
 I found these [hilarious real estate photos](http://boredomtherapy.com/terrible-real-estate-agent-photos/){: target="_blank"}, and they’re so funny that I wanted you to see them too. They’re not only a great laugh, but these pictures can also show you what not to do when trying to get your home sold.
 

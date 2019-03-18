@@ -1,7 +1,7 @@
 ---
 layout: post
 title: September 2018 Seattle Market Update
-date: 2019-03-18 20:33:25
+date: 2018-09-26 20:33:25
 tags:
 excerpt: >-
   With all the hype about the article in the Seattle Times that mentioned

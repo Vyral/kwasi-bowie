@@ -17,7 +17,7 @@ youtube_code: MU1b-rdoQw8
 
 {% include youtube.html %}
 
-Spring and summer aren’t the only times you can find success in the home-selling world. Here are three benefits of selling in the fall and winter.
+<p style="text-align: center;"><em>Spring and summer aren’t the only times you can find success in the home-selling world. Here are three benefits of selling in the fall and winter.</em></p>
 
 Many people think that the spring and summer are the only times that you can benefit from selling a home. That’s absolutely not true. **Here are three reasons to sell your Seattle home this fall or winter:**
 

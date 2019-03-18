@@ -19,7 +19,7 @@ youtube_code: dxOD3VDx-ec
 
 {% include youtube.html %}
 
-In King County, inventory is increasing, pending sales are slowing down, and the median home price is higher than it was at this time last year. This is good news for buyer and sellers.
+<p style="text-align: center;"><em>In King County, inventory is increasing, pending sales are slowing down, and the median home price is higher than it was at this time last year. This is good news for buyer and sellers.</em></p>
 
 As we make our way through June, what does our Seattle market look like for buyers and sellers?
 

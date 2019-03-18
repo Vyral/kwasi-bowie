@@ -20,7 +20,7 @@ youtube_code: 4iOnPaDLvpA
 
 {% include youtube.html %}
 
-Inventory is increasing in our market, which is good news for buyers. It’s still a great time to be a seller, though, and here’s why.
+<p style="text-align: center;"><em>Inventory is increasing in our market, which is good news for buyers. It’s still a great time to be a seller, though, and here’s why.</em></p>
 
 As we take a look at our King County market through October, **we’re seeing more inventory and fewer pending sales for both residential homes and condos.** We’re also seeing prices continue to appreciate at a rate of 6% to 6.5%.
 

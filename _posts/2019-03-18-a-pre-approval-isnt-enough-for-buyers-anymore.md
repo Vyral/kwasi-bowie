@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Pre-Approval Isn’t Enough for Buyers Anymore
-date: 2019-03-18 20:17:44
+date: 2018-04-17 20:17:44
 tags:
   - Home Buyer Tips
 excerpt: >-

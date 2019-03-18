@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Your Home on the List? 26 Hilarious Real Estate Photos
-date: 2019-03-18 20:37:22
+date: 2018-10-24 20:37:00
 tags:
   - Home Seller Tips
 excerpt: >-

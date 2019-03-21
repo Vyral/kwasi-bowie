@@ -14,3 +14,5 @@ youtube_code: Ie7Bx7vIoLY
 ---
 
 {% include youtube.html %}
+
+<p style="text-align: center; font-size: 42px;">Book Appointment<a href="tel:2068544132">24/7 Customer Service Line (206)854-4132</a></p>

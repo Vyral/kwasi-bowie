@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Seattle Real Estate Podcast with Kwasi Bowie</title>
+    <title>Puget Sound Real Estate Podcast with Kwasi Bowie</title>
     <link>http://localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Kwasi Homes - your professional Seattle Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Kwasi Homes - your professional Puget Sound Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Kwasi Bowie</managingEditor>
-    <lastBuildDate>2019-03-11 13:53:56 -0500</lastBuildDate>
+    <lastBuildDate>2019-04-03 14:00:24 -0500</lastBuildDate>
     <media:copyright>Kwasi Bowie</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Seattle, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>kwasib@kwasihomes.com</itunes:email>
@@ -19,108 +19,582 @@
     <itunes:author>Kwasi Bowie</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Seattle, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Seattle Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Kwasi Homes - your professional Seattle Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Puget Sound Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Kwasi Homes - your professional Puget Sound Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+        <title>Are You Tired of Managing Your Property?</title>
+        <link>http://localhost:4000/are-you-tired-of-managing-your-property.html</link>
         
         <author>Kwasi Bowie</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
+        <pubDate>2019-03-18 15:26:50 -0500</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+24/7 Customer Service Line - 206-854-4132
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>
+
+</itunes:subtitle>
         <itunes:author>Kwasi Bowie</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Seattle, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
+        <title>How to Solve Your Credit Issues in Time to Buy a Home</title>
+        <link>http://localhost:4000/how-to-solve-your-credit-issues-in-time-to-buy-a-home.html</link>
         
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+          <category>Home Buyer Tips</category>
         
         <author>Kwasi Bowie</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
+        <pubDate>2019-03-11 19:00:00 -0500</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+What’s the real value of a strong credit score? And how can you successfully improve yours? Find out the answers to these and other questions in today’s message.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Recently I had the chance to sit down and speak with Serge Bagdasarov from LSI Credit Solutions to tackle a question that all of us have asked at one point or another: How do you improve your credit score?
 
+Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:
 
+1:03 - Why LSI Credit Solutions is unlike most other credit companies
 
+3:26 - How LSI Credit Solutions takes the stress out of improving your score
 
-  list item
-  list item
-  list item
-  list item
-  list item
+4:05 - How LSI Credit Solutions can get you ready and qualified to buy a home in just 90 business days
 
+4:18 - What LSI Credit Solutions does to protect its clients from fraud
 
+7:22 - A few final words on the importance of strong credit
 
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any other questions or would like more information, please reach out to Serge or myself. We look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>What’s the real value of a strong credit score? And how can you successfully improve yours? Find out the answers to these and other questions in today’s message.</itunes:subtitle>
         <itunes:author>Kwasi Bowie</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Seattle, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:summary>What’s the real value of a strong credit score? And how can you successfully improve yours? Find out the answers to these and other questions in today’s message.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Latest from Our Local Real Estate Market</title>
+        <link>http://localhost:4000/the-latest-from-our-local-real-estate-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2019-02-25 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Here’s your February real estate market update.
+
+In King County, we’ve seen an increase in the number of homes for sale by 123%. Now, in Seattle, we’ve seen an increase of 131%.
+
+What about the average sales price? Well, in King County, the average sales price decreased by 3.1%, and Seattle dropped by 2.9%.
+
+For King County, we have 2.5 months of supply, which is 2.5% more than we had last year. Seattle has 2.1 months of supply, but they’re up almost 300% from last year!
+
+“We won’t know exactly how much of a frenzy to expect until we see what happens in March, April, and May.”
+
+We all remember what was going on last year, with the multiple offers right and left and crazy frenzies. As fast as homes were selling then, the more inventory we have this year, the less we’ll see that sort of frenzied market. But we won’t know exactly how much of a frenzy to expect until we see what happens in March, April, and May—that will determine the level of inventory and how quickly things sell.
+
+Like I always say: There are a lot of steps to buying and selling a home in today’s market. The one step you need to remember is to give me a call, and I’ll help guide and advise you through the rest of the steps.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s your February real estate market update.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>Here’s your February real estate market update.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can This Program Help Homeowners Maximize Their Profits?</title>
+        <link>http://localhost:4000/how-can-this-program-help-homeowners-maximize-their-profits.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2019-01-16 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+If you’re thinking about selling your home, we’ve got an exciting program to talk to you about today. The best part about it is that there’s no risk or cost involved on your part.
+
+Today I’m excited to talk to you about a cool new way to maximize the profit of your home sale. It’s actually a program we have at our company where we front the costs for you to make repairs and improvements in your home in order to get it sold for the most amount of money. This comes with no risk and no cost to you as a homeowner.
+
+The first step is to have us come over to the house and determine what upgrades and improvements need to be made in order to maximize your profit. The next step is getting you accepted into our program. Then we get the work done with our contractors and pay them ourselves.
+
+“We’ll get the work scheduled and paid for.”
+
+Once your home is sold by our company, we are reimbursed through the profits you have made through the sale of your home at no extra cost. You can see that you have no risk, no additional costs, and a home that’s primed and ready to sell for a maximized price, which helps you win as a homeowner.
+
+If you have any questions about this program or anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re thinking about selling your home, we’ve got an exciting program to talk to you about today. The best part about it is that there’s no risk or cost involved on your part.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>If you’re thinking about selling your home, we’ve got an exciting program to talk to you about today. The best part about it is that there’s no risk or cost involved on your part.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Cost of Preparing a Home for Sale and How We’ll Help You</title>
+        <link>http://localhost:4000/the-cost-of-preparing-a-home-for-sale-and-how-well-help-you.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2018-12-03 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Preparing a home for sale costs money that sellers may not have, which is why we’re offering to help.
+
+In order for a home to sell quickly and for top dollar, there are some things that must be done to prepare. However, homeowners often underestimate the amount they’ll have to spend to get their property ready for sale. Today we’ll talk about the costs you’ll have when preparing your home to sell for its highest price possible. You’ll be paying for:
+
+
+  Cosmetic Repairs
+  Interior paint
+  Carpet cleaning
+  Refinishing hardwood floors
+  Landscaping
+
+
+After looking at the cost of the items involved, many homeowners decide to refrain from selling as they can’t afford these finishing touches.
+
+“Homeowners often underestimate the amount they’ll have to spend to get their property ready for sale.”
+
+If this sounds like you, you’re in luck. We’re offering to front the cost of preparing your home for sale.
+
+If you’re thinking of selling anytime in the near future, reach out to us as soon as possible. It sometimes takes time to coordinate a preparation plan with our sellers, so let us know as soon as you can so we can begin preparing your home for sale.
+
+If you’d like to learn more and see how we can help you, give us a call at 206-802-2710. We look forward to hearing from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Preparing a home for sale costs money that sellers may not have, which is why we’re offering to help.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>Preparing a home for sale costs money that sellers may not have, which is why we’re offering to help.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s the Latest News From Our King County Market?</title>
+        <link>http://localhost:4000/whats-the-latest-news-from-our-king-county-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2018-11-18 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Inventory is increasing in our market, which is good news for buyers. It’s still a great time to be a seller, though, and here’s why.
+
+As we take a look at our King County market through October, we’re seeing more inventory and fewer pending sales for both residential homes and condos. We’re also seeing prices continue to appreciate at a rate of 6% to 6.5%.
+
+The big news here is the increase in inventory. For residential homes, inventory has increased 86% year over year. For condos, it has increased 188% year over year.
+
+If you’re a buyer, this means you have more homes to choose from and you’ll be facing less competition. If you enter the market now, you’ll also get a better interest rate than you would if you waited several months down the road. Since the Federal Reserve is planning on raising rates even more than they already have, they have nowhere to go but up.
+
+If you’re a seller, the good news is you don’t have to worry about the bottom dropping out due to this rise in inventory. Why? Prices are still going up. Though they’re not spiking by double digits anymore, they’re still appreciating.
+
+“We’re seeing more inventory and fewer pending sales for both residential homes and condos.”
+
+If you’re looking to buy an investment property, make sure you know your numbers and you have a good idea of what your property’s value will be in the future, because the market won’t bail you out the way it would have in the past if you make a bad purchase.
+
+No matter what your real estate goals are, it’s most important to have an experienced real estate professional by your side so they can guide you through the process. If you have any more questions about our market or you’re thinking of buying or selling a home, don’t hesitate to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Inventory is increasing in our market, which is good news for buyers. It’s still a great time to be a seller, though, and here’s why.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>Inventory is increasing in our market, which is good news for buyers. It’s still a great time to be a seller, though, and here’s why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is Your Home on the List? 26 Hilarious Real Estate Photos</title>
+        <link>http://localhost:4000/is-your-home-on-the-list-26-hilarious-real-estate-photos.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2018-10-24 15:37:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+These real estate photos are hilarious, but also show us some pitfalls to avoid. See what to look out for.
+
+I found these hilarious real estate photos, and they’re so funny that I wanted you to see them too. They’re not only a great laugh, but these pictures can also show you what not to do when trying to get your home sold.
+
+Keep an eye out for real estate red flags, such as:
+
+
+  Using a cell phone for photos. Most buyers see photos before ever setting foot in your home. You want to make the best first impression with professional photography.
+  Not using a stager to make your home more appealing. Homes that are staged and have professional photography sell for more money in less time.
+
+
+“When you’re dealing with hundreds of thousands of dollars, you need to take it seriously.”
+
+To avoid pitfalls such as these (and avoid starring in our next episode), give us a call and we can help you. Whether you want to buy a home, sell a home, ask us questions, or want real estate information and advice, we are here to give you a hand. When you’re dealing with hundreds of thousands of dollars, you need to take it seriously. The first step is giving us a call. We look forward to hearing from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>These real estate photos are hilarious, but also show us some pitfalls to avoid. See what to look out for.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>These real estate photos are hilarious, but also show us some pitfalls to avoid. See what to look out for.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Should You Consider Selling This Fall or Winter?</title>
+        <link>http://localhost:4000/why-should-you-consider-selling-this-fall-or-winter.html</link>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2018-10-11 15:35:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Spring and summer aren’t the only times you can find success in the home-selling world. Here are three benefits of selling in the fall and winter.
+
+Many people think that the spring and summer are the only times that you can benefit from selling a home. That’s absolutely not true. Here are three reasons to sell your Seattle home this fall or winter:
+
+1. Less inventory. More inventory means more competition, so listing in the fall and winter while there is less competition means that you’re more likely to sell.
+
+2. Motivated buyers. During this time of year, buyers are motivated. Maybe they want to move by the holidays or maybe they have a new job starting in January and want to get settled. Whatever the reason, buyers are more motivated in general during this time of year.
+
+3. Marketing. The Greater Puget Sound area is so gorgeous during the autumn and winter, and listing during this time is a great way to show off your home in the best light possible.
+
+“Buyers are especially motivated during this time of year.”
+
+There are a lot of things to know and a lot of steps to take when you’re thinking about buying or selling a home in a shifting market. The one thing that you need to remember is to give me a call or send me an email so I can help guide you through these steps. I look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Spring and summer aren’t the only times you can find success in the home-selling world. Here are three benefits of selling in the fall and winter.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>Spring and summer aren’t the only times you can find success in the home-selling world. Here are three benefits of selling in the fall and winter.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>September 2018 Seattle Market Update</title>
+        <link>http://localhost:4000/september-2018-seattle-market-update.html</link>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2018-09-26 15:33:25 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+With all the hype about the article in the Seattle Times that mentioned dropping home prices and rising inventory, I want to update you on what’s actually going on in the market.
+
+There’s been a lot of buzz about the Seattle Times article saying that the median home price in Seattle has dropped by $70,000 in the last three months, and that there was 66% more inventory in the market.
+
+Today I’d like to address these statistics for everyone in the market.
+
+If you’re a seller, you’re likely seeing that there are more price reductions and more inventory in the market. Because of that, homes are taking just a little bit longer to sell. The fact of the matter is that homes that are positioned properly when they first come on the market are selling with multiple offers, sometimes even above asking price.
+
+If you’re a buyer, you’ll also have noticed the increase in inventory, which means more options for you to choose from. You probably won’t see as many crazy multiple offer situations that you have earlier this year. Sellers are also more willing to accept contingent offers. You’ll also notice the surge in price reductions, which means you won’t have to rush to a given house and spend a lot of money on pre-inspections before you can get it.
+
+Renters, like buyers and sellers, will enjoy the upswing of inventory as well. You might see big apartment complexes offering incentives to renters, so it’s a good time to take advantage.
+
+“Even though we lost some money in the Seattle market with the median home price, home prices are still up year over year.”
+
+We’re also noticing more and more investors jumping back in the market, especially in the realm of single-family homes. There are some developers continuing to build; some were hesitant about the market, but the savvy ones are still in the game, looking for deals.
+
+Even with all this information, home prices are still up 2.9% over last year. Even though we lost some money in the Seattle market with the median home price, home prices are still up year over year. This is a healthy adjustment; we’re still below two months of supply in most areas, meaning it’s a seller’s market.
+
+In our changing market, there are many steps to buying and selling a home. The first one you should take is to give me a call so I can help guide advise you through the rest of the steps. For any other questions, feel free to reach out to me.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>With all the hype about the article in the Seattle Times that mentioned dropping home prices and rising inventory, I want to update you on what’s actually going on in the market.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>With all the hype about the article in the Seattle Times that mentioned dropping home prices and rising inventory, I want to update you on what’s actually going on in the market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>News From Our Market Is Coming Soon, But I've Got Another Important Update</title>
+        <link>http://localhost:4000/news-from-our-market-is-coming-soon-but-ive-got-another-important-update.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2018-08-30 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+After taking some time off, I’m back today to announce the reason for my absence.
+
+I know I haven’t updated you all on the market in a while, but there’s a very good reason why I’ve been gone. On July 17, my wife and I were blessed with two beautiful twins.
+
+Kash Lawrence came into the world at 4:31 p.m. that Tuesday evening at 6 pounds 7.8 ounces and 17 ¾ inches, and his sister London Jane joined him soon after at 4:40 p.m., measuring at 6 pounds 9.6 ounces and 19 inches long.
+
+These two hold such a special place in our hearts, along with our eldest son Asher—who has proven to be an amazing older brother already.
+
+So, with three kids under three years old, I’m sure you can see what’s been keeping me away from making videos. On top of spending time with my recently expanded family, though, I have still been helping clients like you navigate today’s changing market.
+
+“I truly couldn’t be happier with my amazing family, my amazing team, and my amazing clients.”
+
+Now that my wife and I have begun to adjust to this major change in our lives, I’ll be getting back to you with another update soon. So be on the lookout for my next market update.
+
+I truly couldn’t be happier with my amazing family, my amazing team, and my amazing clients, and I’m excited to get back to bringing you the latest real estate news.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>After taking some time off, I’m back today to announce the reason for my absence.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>After taking some time off, I’m back today to announce the reason for my absence.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Here’s What’s Happening in Our Seattle Market</title>
+        <link>http://localhost:4000/heres-whats-happening-in-our-seattle-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2018-06-14 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+In King County, inventory is increasing, pending sales are slowing down, and the median home price is higher than it was at this time last year. This is good news for buyer and sellers.
+
+As we make our way through June, what does our Seattle market look like for buyers and sellers?
+
+As I’ve been saying the past couple of months, inventory is increasing and pending sales are slowing down ever so slightly. Last month in King County, the number of active listings increased by 35%. As a whole, the Northwest MLS has not seen this kind of spike in new listings since May 2008. During the same time, the number of pending sales decreased 2.5%.
+
+With the increase in inventory we’re seeing, buyers have the opportunity to get the home they want without dealing with the frenzy they previously had to deal with.
+
+“Inventory is increasing and pending sales are slowing down ever so slightly.”
+
+What about sellers, though? Despite the increase in inventory and the slight dip in pending sales, the median home price is still 14% higher than it was at this time last year. We’re seeing great appreciation, but if you are a seller, you still need to make sure you work with an agent who has the knowledge to advise you in our shifting market.
+
+As I always say, there are a lot of things you need to know to navigate a shifting market like ours, but the one thing you need to remember is to give me a call so I can advise you through the rest of the steps.
+
+If you have any other questions about our current market or you have any other real estate needs, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>In King County, inventory is increasing, pending sales are slowing down, and the median home price is higher than it was at this time last year. This is good news for buyer and sellers.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>In King County, inventory is increasing, pending sales are slowing down, and the median home price is higher than it was at this time last year. This is good news for buyer and sellers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Do Rising Property Taxes Mean for Seattle Homeowners and Homebuyers?</title>
+        <link>http://localhost:4000/what-do-rising-property-taxes-mean-for-seattle-homeowners-and-homebuyers.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2018-05-29 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Rising property taxes here in Seattle means different things for homeowners and homebuyers.
+
+According to a recent article in the Seattle Times, property taxes in our area our about to go up. The area with the lowest average property tax that the article cited was Normandy Park, at a little over 9%. The area with the highest average was Carnation, at a little over 31%.
+
+What does this mean for homebuyers and homeowners?
+
+If you are a homeowner, keep an eye out for your property tax assessment in the mail. Whatever your increase is, you need to budget for it moving forward.
+
+If you are a homebuyer, be careful about the property taxes you are being quoted for any home you are interested in. You do not want the shock of moving into a house thinking you will have to make a certain payment next year only to have that payment increase, which will also increase your monthly mortgage payment.
+
+“Property taxes in our area are about to go up.”
+
+As always, there are many steps to buying or selling a home, but the one step you need to remember is to give me a call. If you have any other questions or real estate needs, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Rising property taxes here in Seattle means different things for homeowners and homebuyers.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>Rising property taxes here in Seattle means different things for homeowners and homebuyers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Here’s What Our Latest Market Trends Mean for Buyers and Sellers</title>
+        <link>http://localhost:4000/heres-what-our-latest-market-trends-mean-for-buyers-and-sellers.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2018-05-11 15:22:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Inventory is increasing and sales have leveled off in our market. This means we should see an upcoming downward pressure on prices.
+
+What’s the latest news from our market?
+
+For the second month in a row, we saw inventory levels increase. This past April, we saw 12% more inventory come onto the market compared to April 2017. In the months prior to our recent stretch, we saw inventory levels undergo a double-digit drop.
+
+Sales, however, are down about 2%. Even though we’re absorbing a lot of the inventory coming onto the market, we haven’t seen the same double-digit increase in pending sales that we did in the previous months where inventory dropped by double digits.
+
+“Downward pressure on prices means both buyers and sellers get a little more breathing room.”
+
+If this trend continues, we’ll soon see downward pressure on prices. This doesn’t mean they’ll plummet or that a recession is on the horizon; it just means everyone gets a little more breathing room. Sellers will have more time to sell their homes. Meanwhile buyers will have more inventory to choose from and more time to react to find the home they want.
+
+As always, there are many steps to buying and selling a home in today’s market, but the one you need to remember is to give me a call so I can advise you and guide you through the process.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Inventory is increasing and sales have leveled off in our market. This means we should see an upcoming downward pressure on prices.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>Inventory is increasing and sales have leveled off in our market. This means we should see an upcoming downward pressure on prices.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s Happening in the Seattle Real Estate Market?</title>
+        <link>http://localhost:4000/whats-happening-in-the-seattle-real-estate-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2018-04-16 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+I’ve got a quick market update for you today. Here’s what’s going on in Seattle and King County.
+
+Today I’ve got your April real estate market update for the Seattle area. Let’s get right to it.
+
+There was an article in the Seattle Times that said Seattle’s median home price is nearly $820,000 right now. There was another segment on KING 5 News that said if your Seattle home had a day job, it would be making $54.24 an hour. Isn’t that amazing?
+
+Here are some numbers for King County. The median sale price is now up to $689,950 for single-family homes. That’s an increase of 15% in just the last year!
+
+“Homes are continuing to appreciate at an astonishing rate.”
+
+Another interesting fact that came out was that we have seen quite a boost in inventory. With the spring and summer months, that’s to be expected. However, our inventory is about 1% less than it was at this time last year, with about 1% more sales in the same time period. If this trend continues, we could see downward pressure on prices. However, nobody has a crystal ball so we aren’t certain.
+
+If you’re thinking about getting your home on the market in the next few weeks, months, or years, don’t hesitate to reach out and give us a call. We would love to help. There are a lot of steps to buying or selling a home in today’s market, but the only one you have to remember is giving me a call. I look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’ve got a quick market update for you today. Here’s what’s going on in Seattle and King County.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>I’ve got a quick market update for you today. Here’s what’s going on in Seattle and King County.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Pre-Approval Isn’t Enough for Buyers Anymore</title>
+        <link>http://localhost:4000/a-pre-approval-isnt-enough-for-buyers-anymore.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2018-04-02 15:17:44 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+A pre-approval isn’t enough to set you apart from other homebuyers anymore. Here’s the next step you should take.
+
+Look, as fast as this market is moving, you need to have a competitive edge. There are multiple offer situations all over the place, and you want your offer to give you that competitive edge against other buyers. Here’s how you can get it.
+
+There’s still another step that people have to take beyond a pre-approval in order to be fully approved to buy a home. We have been recommending our clients to get pre-underwritten. This means you submit the same documentation as you do for a pre-approval, then you submit it to the underwriter, who goes through it with a fine-toothed comb. This gives the seller one less hurdle to worry about after they get under contract.
+
+“We have more than 30 strategies to utilize, depending on your situation.”
+
+We have more than 30 strategies to utilize, depending on your situation. If you want to learn more about this strategy or any others that we have, give us a call or send us an email and we’ll guide you through the steps. We look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>A pre-approval isn’t enough to set you apart from other homebuyers anymore. Here’s the next step you should take.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>A pre-approval isn’t enough to set you apart from other homebuyers anymore. Here’s the next step you should take.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Planning Ahead for the Spring Market</title>
+        <link>http://localhost:4000/planning-ahead-for-the-spring-market.html</link>
+        
+        <author>Kwasi Bowie</author>
+        <pubDate>2018-03-12 15:16:03 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Whether you’re a buyer or a seller, the stats from this market update are important to know.
+
+I’m back with your March 2018 market update, and I have some important stats to share, whether you’re a buyer or a seller.
+
+Heading into the spring market, a lot of buyers are thinking there will be more inventory and less competition. Sellers are thinking that this is the time to put their homes on the market.
+
+If you take a look at the end of February, there were a little over 1,900 homes that came onto the market. In January, there were about 2,300 homes that appeared on the market. As we approach spring, we’re actually seeing less inventory.
+
+“As we approach spring, we’re actually seeing less inventory.”
+
+What does that mean for you?
+
+If you’re a buyer, it means that there won’t be as much inventory as you might expect. For sellers, you’ll have to think about if you want to sell in a market where there’s less inventory
+
+If you want to know the specifics of your area, feel free to reach out to me. We can have a discussion and figure out a plan for you how should move forward in the market.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Whether you’re a buyer or a seller, the stats from this market update are important to know.</itunes:subtitle>
+        <itunes:author>Kwasi Bowie</itunes:author>
+        <itunes:summary>Whether you’re a buyer or a seller, the stats from this market update are important to know.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Kwasi Bowie</copyright>
     <media:credit role="author">Kwasi Bowie</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Kwasi Homes - your professional Seattle Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Kwasi Homes - your professional Puget Sound Real Estate Agents.</media:description>
   </channel>
 </rss>

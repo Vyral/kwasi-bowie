@@ -22,7 +22,7 @@ youtube_code: 0mI2rZNauag
 
 {% include youtube.html %}
 
-I recently had the honor of speaking with Alex Mont-Ros from Moncord to discuss an amazing service they offer which we use on a regular basis. Find out what they do and how they do it right here.
+<p style="text-align: center;"><em>I recently had the honor of speaking with Alex Mont-Ros from Moncord to discuss an amazing service they offer which we use on a regular basis. Find out what they do and how they do it right here.</em></p>
 
 My guest today, Alex Mont-Ros, has an extensive background in sales, corporate leadership, and management. In 2003, Alex started his career as a successful real estate broker selling and listing both residential and commercial properties. Later, he transitioned careers to corporate management as a regional leader for a Fortune 15 company managing over $100 million in revenues for global retailers and firms. As co-founder of Moncord Real Estate Professional Services, Alex is tasked with developing Moncord’s strategic and marketing initiatives.&nbsp;
 

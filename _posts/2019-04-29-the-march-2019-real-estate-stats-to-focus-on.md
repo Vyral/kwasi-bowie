@@ -19,7 +19,7 @@ youtube_code: TbhPgWx4Klg
 
 {% include youtube.html %}
 
-Welcome back to my blog\! Here’s your latest monthly market update.
+<p style="text-align: center;"><em>Welcome back to my blog! Here’s your latest monthly market update.</em></p>
 
 When most people look at the latest real estate market stats for our area, they focus on the year-over-year median sales prices drop from $689,950 in March 2018 to $667,725 in March 2019—a 3.22% decrease.
 

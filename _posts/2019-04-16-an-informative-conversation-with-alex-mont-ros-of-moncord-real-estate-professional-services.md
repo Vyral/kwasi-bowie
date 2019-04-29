@@ -7,7 +7,7 @@ date: 2019-04-16 15:43:37
 tags:
   - Real Estate
 excerpt: >-
-  I recently had the honor of speaking with Alex [LAST NAME?] from Moncord to
+  I recently had the honor of speaking with Alex Mont-Ros from Moncord to
   discuss an amazing service they offer which we use on a regular basis. Find
   out what they do and how they do it right here.
 enclosure: >-

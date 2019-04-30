@@ -23,7 +23,7 @@ youtube_code: TbhPgWx4Klg
 
 When most people look at the latest real estate market stats for our area, they focus on the year-over-year median sales prices drop from $689,950 in March 2018 to $667,725 in March 2019—a 3.22% decrease.
 
-But what they’re not seeing is that there are other areas that have had a more drastic change in their median home price change—either up or down. **Today I want to dig a little deeper to see what else you should keep your eye on in the market.**
+But what they’re not seeing is that there are other areas that have had a more drastic change in their median home price—either up or down. **Today I want to dig a little deeper to see what else you should keep your eye on in the market.**
 
 One trend to watch is our months of inventory. For the entire King County area, we’re still below two months of supply, and even in some of the areas that have had a drastic change in median home prices, it’s still a seller’s market.
 

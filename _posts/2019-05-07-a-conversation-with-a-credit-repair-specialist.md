@@ -19,7 +19,7 @@ youtube_code: 8AtDOX96uNo
 
 {% include youtube.html %}
 
-If you have credit in need of repair, my conversation today with Serge Bagdasarov of LSI Credit Solutions will answer all your questions.
+<p style="text-align: center;"><em>If you have credit in need of repair, my conversation today with Serge Bagdasarov of LSI Credit Solutions will answer all your questions.</em></p>
 
 Today I’m joined by Serge Bagdasarov of LSI Credit Solutions to answer all your questions about credit repair.
 

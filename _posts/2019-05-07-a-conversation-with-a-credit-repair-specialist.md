@@ -8,7 +8,7 @@ excerpt: >-
   If you have credit in need of repair, my conversation today with Serge
   Bagdasarov of LSI Credit Solutions will answer all your questions.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Kwasi+Bowie/2019/Seattle+Real+Estate+Agent-+Business+Sponsorship+-+LSI+Credit+Solutions.mp4
+  https://s3.amazonaws.com/vyralmarketing/Kwasi+Bowie/2019/Seattle+Real+Estate+Agent-+LSI+Credit+Solutions.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:

@@ -3,6 +3,8 @@ layout: default
 title: Local Businesses
 permalink: /local-businesses/
 ---
+<br>
+<h2>How Turnkey Is Changing the Vacation Rental Business</h2>
 
 <br><br>
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ltnB7gINY_s?rel=0" frameborder="0" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe>

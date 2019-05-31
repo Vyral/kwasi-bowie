@@ -7,7 +7,7 @@ permalink: /local-businesses/
 <h2>How Turnkey Is Changing the Vacation Rental Business</h2>
 
 <br><br>
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/ltnB7gINY_s?rel=0" frameborder="0" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ltnB7gINY_s?rel=0" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 <p style="text-align: center;"><em>Turnkey Vacation Rentals is changing the way home renters and homeowners operate. Sarah Carter joined me recently to explain how.</em></p>
 

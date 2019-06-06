@@ -34,6 +34,6 @@ Today I brought Chris in to discuss the formation, purpose, and philosophy of CM
 
 I’m grateful that Christopher Small had the time to have this conversation with me. Estate planning is a critical step in life, and I strongly encourage you to have an honest conversation with your estate planner for you and your family’s sake.&nbsp;
 
-Reach out to Chris and learn more about the services provided CMS Law Firm by visiting their website www.CMSLawFirm.com. When you contact him, mention that you listened to this video or mention my name (Kwasi) and get 10% off \[something\].
+Reach out to Chris and learn more about the services provided CMS Law Firm by visiting their website <a href="www.cmslawfirm.com" target="_blank">www.CMSLawFirm.com.</a> When you contact him, mention that you listened to this video or mention my name (Kwasi) and get 10% off \[something\].
 
 If you have any other questions about today’s topic or real estate in general, don’t hesitate to reach out to me and my team. We’d love to help you.

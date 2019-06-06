@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/BLEsiVknBSs'
 
 {% include youtube.html %}
 
-Today I brought in Christopher Small, owner of CMS Law Firm, to discuss the formation, purpose, and philosophy of his firm, and to hear about the wisdom he’s gained in the process. You won’t want to miss this.
+<p style="text-align: center;"><em>Today I brought in Christopher Small, owner of CMS Law Firm, to discuss the formation, purpose, and philosophy of his firm, and to hear about the wisdom he’s gained in the process. You won’t want to miss this.</em></p>
 
 Christopher Small originally started CMS Law Firm back in 2009 as a criminal offense and personal injury attorney. Over time, he morphed the firm’s purpose and ultimately restarted in 2016 as an estate planning firm.
 

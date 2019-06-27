@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/mVoSlJRr-54'
 
 {% include youtube.html %}
 
-I’ve got the latest numbers from King, Pierce, and Snohomish Counties. Here’s what you need to know.
+<p style="text-align: center;"><em>I’ve got the latest numbers from King, Pierce, and Snohomish Counties. Here’s what you need to know.</em></p>
 
 Today I’ve got a hot-off-the-press market update for you for June 2019. We’re going to do something a little different this time by giving you the latest numbers from King, Pierce, and Snohomish Counties.
 

@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/llcuim6STSc'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>The numbers are in for our July market\! Find out what they say in today’s message.</em></p>
+<p style="text-align: center;"><em>The numbers are in for our July market! Find out what they say in today’s message.</em></p>
 
 Welcome back to my blog\!&nbsp;
 

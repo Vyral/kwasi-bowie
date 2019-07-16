@@ -25,7 +25,7 @@ Welcome back to my blog\!&nbsp;
 
 We’re at about the midway point of July and a little over the midway point of the year, which makes now a good time to check back on our King, Pierce, and Snohomish County market.
 
-Let’s run through the year-over-year numbers for July. **Cited below for your convenience are time stamps that will direct you to various points in the video:**&nbsp;
+Let’s run through the year-over-year numbers for July. **Cited below for your convenience are timestamps that will direct you to various points in the video:**&nbsp;
 
 **<u>0:29 - King County:&nbsp;</u>**
 
@@ -46,10 +46,10 @@ Let’s run through the year-over-year numbers for July. **Cited below for your 
 * The median sales price is $488,000—up 0.81% from a year ago
 * The average Snohomish County home is spending 22 days on market—a 46.7% increase &nbsp;
 
-<br>**<u>1:54 - Pierce County:&nbsp;</u>**
+**<u>1:54 - Pierce County:&nbsp;</u>**
 
 * Active listings are currently at 2,045—an 8.17% decrease from this time last year
-* Closed sales are at 1,622—a 8.47% drop year over year
+* Closed sales are at 1,622—an 8.47% drop year over year
 * The median sales price is $372,000—up 7.36% from a year ago
 * The average Pierce County home is spending 24 days on market—a 20% increase&nbsp;
 

@@ -19,7 +19,7 @@ youtube_code: 1FlqvqMN7TA
 
 {% include youtube.html %}
 
-Here are the statistics for our Seattle and surrounding areas real estate market.
+<p style="text-align: center;"><em>Here are the statistics for our Seattle and surrounding areas real estate market.</em></p>
 
 Today I’m bringing you our Seattle and surrounding areas February market update. These statistics compare January 2019 to January 2020 and derive from the Northwest MLS. Here’s what’s going on in our market right now:&nbsp;
 

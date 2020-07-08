@@ -17,6 +17,8 @@ youtube_code: jrLdJzZ6wgs
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are the latest stats from our Seattle area real estate market.</em></p>
+
 Here is your May real estate market update. All statistics are April 2020 compared to April 2019. All the data is derived from our multiple listing service. Obviously, due to the pandemic, our active listings and closed sales all saw a decrease recently.
 
 **King County:**

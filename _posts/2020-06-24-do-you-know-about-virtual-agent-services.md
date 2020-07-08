@@ -17,7 +17,7 @@ youtube_code: kJ-wDhL1AWc
 
 {% include youtube.html %}
 
-These are just some of the virtual services that our team offers.
+<p style="text-align: center;"><em>These are just some of the virtual services that our team offers.</em></p>
 
 There has been a lot of hype from real estate brokers talking about virtual agents, what they do to sell houses amid COVID-19, etc. The truth is that a lot of them are just starting to use these tools now, while our team has been using them for years.
 

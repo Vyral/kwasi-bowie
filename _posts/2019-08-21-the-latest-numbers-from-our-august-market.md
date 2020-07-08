@@ -17,7 +17,7 @@ youtube_code: s21HGRqEBHQ
 
 {% include youtube.html %}
 
-*Here are the latest year-over-year numbers from our market.*
+<p style="text-align: center;"><em>Here are the latest year-over-year numbers from our market.</em></p>
 
 For your August market report, here are the latest statistics from last July in King County, Snohomish County, and Pierce County and how they compare to July 2018.
 

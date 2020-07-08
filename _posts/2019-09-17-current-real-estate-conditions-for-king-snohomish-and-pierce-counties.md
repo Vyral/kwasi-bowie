@@ -19,7 +19,7 @@ youtube_code: F9h7goUrcnk
 
 {% include youtube.html %}
 
-We’re back once more with another update on our King, Snohomish, and Pierce County real estate markets.
+<p style="text-align: center;"><em>We’re back once more with another update on our King, Snohomish, and Pierce County real estate markets.</em></p>
 
 A lot can change in our market in just a short time, which is why we’re back today with yet another market update for King, Snohomish, and Pierce Counties. Here are the latest stats:
 

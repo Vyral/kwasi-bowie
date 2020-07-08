@@ -20,7 +20,7 @@ youtube_code: ggBhUnIOsGc
 
 {% include youtube.html %}
 
-Would you believe me if I told you the number of closed sales in King County for March 2020 was 7% higher than last March? It’s true; here are the latest stats.
+<p style="text-align: center;"><em>Would you believe me if I told you the number of closed sales in King County for March 2020 was 7% higher than last March? It’s true; here are the latest stats.</em></p>
 
 March was obviously a bizarre and difficult time for our area, our nation, and our world. Today, in keeping with my commitment to provide you with the most up-to-date information on our real estate market, I’m sharing the statistics from last month and comparing them to March 2019.
 

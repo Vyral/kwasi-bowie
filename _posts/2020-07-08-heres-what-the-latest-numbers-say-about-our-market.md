@@ -19,7 +19,7 @@ youtube_code: xs_ydGvlhCA
 
 {% include youtube.html %}
 
-How’s our Seattle market faring now that we’re into October? Let’s check the latest numbers.
+<p style="text-align: center;"><em>How’s our Seattle market faring now that we’re into October? Let’s check the latest numbers.</em></p>
 
 For your October market update, **let’s look at the year-over-year numbers from last month for King, Snohomish, and Pierce counties. **
 

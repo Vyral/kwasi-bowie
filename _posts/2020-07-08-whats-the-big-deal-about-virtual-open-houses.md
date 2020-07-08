@@ -17,7 +17,7 @@ youtube_code: _Zxl0EGS1f0
 
 {% include youtube.html %}
 
-Virtual open houses and tours can show your home to anyone.
+<p styl="text-align: center;"><em>Virtual open houses and tours can show your home to anyone.</em></p>
 
 Have you seen a virtual open house? **At 0:30 in the video above, you can see a virtual 3D Matterport video.** I made this video years ago and talked about how it would be a game-changer, and here we are during a health crisis, and that is more true than ever.
 

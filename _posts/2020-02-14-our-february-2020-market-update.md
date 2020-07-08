@@ -51,4 +51,6 @@ Today I’m bringing you our Seattle and surrounding areas February market updat
 * Median sales price: $375,000. Up 14.7%
 * 966 active listings. Down 40.5%
 * 872 closed sales. Down 2.6%
-* Days on market: 40. Down 14.9%If you have any questions about our market or real estate in general, please reach out to me via phone or email. I would love to speak with you.
+* Days on market: 40. Down 14.9%
+
+If you have any questions about our market or real estate in general, please reach out to me via phone or email. I would love to speak with you.

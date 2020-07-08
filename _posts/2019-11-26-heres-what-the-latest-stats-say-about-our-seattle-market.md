@@ -17,7 +17,7 @@ youtube_code: w5ZP9VahJW4
 
 {% include youtube.html %}
 
-*Here’s what the latest stats say about our market.*
+<p style="text-align: center;"><em>Here’s what the latest stats say about our market.</em></p>
 
 For your November market update, we’ll look at the latest year-over-year statistics from last month.
 

@@ -19,7 +19,7 @@ youtube_code: u4ktnRoSmsY
 
 {% include youtube.html %}
 
-Despite the COVID-19 pandemic, our market is still moving. Here’s what this means for buyers, sellers, renters, and investors.
+<p style="text-align: center;"><em>Despite the COVID-19 pandemic, our market is still moving. Here’s what this means for buyers, sellers, renters, and investors.</em></p>
 
 What’s the state of our Greater Seattle area market amid the COVID-19 pandemic?
 

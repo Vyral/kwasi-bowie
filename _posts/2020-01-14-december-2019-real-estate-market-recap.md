@@ -19,7 +19,7 @@ youtube_code: RW4QlteJR4M
 
 {% include youtube.html %}
 
-The new year is here and the numbers are in for December. Here’s what they say about our real estate market.
+<p style="text-algin: center;"><em>The new year is here and the numbers are in for December. Here’s what they say about our real estate market.</em></p>
 
 Here is your December market update for King, Snohomish, and Pierce counties. We took a look at the latest statistics and compared them to what we saw in December 2018. **These are the numbers that you need to know:**
 

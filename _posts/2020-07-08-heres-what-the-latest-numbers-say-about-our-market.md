@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Here’s What the Latest Numbers Say About Our Market
-date: 2020-07-08 16:59:24
+date: 2019-10-18 00:00:00
 tags:
   - Market Update
 excerpt: >-

@@ -21,7 +21,7 @@ youtube_code: UCQSgtbSeee1rl9UQBUfLBMA
 
 {% include youtube.html %}
 
-It’s important to stay current on market trends in the Seattle area. Let’s break down the numbers for this month.
+<p style="text-align: center;"><em>It’s important to stay current on market trends in the Seattle area. Let’s break down the numbers for this month.</em></p>
 
 Today I’m giving you a market update for December, starting with sales prices.
 

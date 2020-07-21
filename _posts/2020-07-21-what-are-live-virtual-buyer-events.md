@@ -19,7 +19,7 @@ youtube_code: A6QlsiE3a6o
 
 {% include youtube.html %}
 
-Selling virtually is key these days. Here’s what good virtual events look like.
+<p style="text-align: center;"><em>Selling virtually is key these days. Here’s what good virtual events look like.</em></p>
 
 In previous videos, I’ve discussed some of the virtual agent services that we offer, but today I wanted to share what a virtual buyer event looks like. This isn’t something you need to do for every house, but it can work well if you have the right property for this type of strategy. Virtual events can draw more buyers to your listing from the comfort of their own homes.
 

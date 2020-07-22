@@ -23,7 +23,7 @@ youtube_code: A6QlsiE3a6o
 
 In previous videos, I’ve discussed some of the virtual agent services that we offer, but today I wanted to share what a virtual buyer event looks like. This isn’t something you need to do for every house, but it can work well if you have the right property for this type of strategy. Virtual events can draw more buyers to your listing from the comfort of their own homes.
 
-One of the ways we can use live, virtual buyer events is by **interviewing the homeowner and showing off any special features of the house,** such as an outdoor fireplace or kitchen. In this situation, maybe you would grill while we discuss what you enjoy doing in that space; choose an activity that helps buyers see the type of lifestyle they could have if they bought this home. It’s very important for buyers to be able to picture themselves in the house.&nbsp;
+One of the ways we can use live virtual buyer events is by **interviewing the homeowner and showing off any special features of the house,** such as an outdoor fireplace or kitchen. In this situation, maybe you would grill while we discuss what you enjoy doing in that space; choose an activity that helps buyers see the type of lifestyle they could have if they bought this home. It’s very important for buyers to be able to picture themselves in the house.&nbsp;
 
 Another idea for a virtual event is to host a neighbors-only sneak peek of the property. As soon as the home goes on the market, **you can have a virtual walk-through of the house** or do an interview-style setup. Neighbors may have friends or family interested in buying in the neighborhood, so allowing them the opportunity to see the property and connect with me, the real estate agent, can get their attention.
 

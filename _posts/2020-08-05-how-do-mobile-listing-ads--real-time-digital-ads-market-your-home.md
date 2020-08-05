@@ -21,7 +21,7 @@ youtube_code: 20lrZSrQCnU
 
 {% include youtube.html %}
 
-Today I’ll discuss two helpful virtual agent services: mobile listing ads and real-time digital ads.
+<p style="text-align: center;"><em>Today I’ll discuss two helpful virtual agent services: mobile listing ads and real-time digital ads.</em></p>
 
 There are two virtual agent services that can help you gain much more attention for your listing: mobile listing ads and real-time digital ads.
 

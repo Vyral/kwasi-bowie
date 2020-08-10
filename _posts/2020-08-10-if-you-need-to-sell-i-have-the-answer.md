@@ -17,7 +17,7 @@ youtube_code: 5c-KfinWz6M
 
 {% include youtube.html %}
 
-I wrote a free guide for how to sell for top dollar. Here’s how to get it.
+<p style="text-align: center;"><em>I wrote a free guide for how to sell for top dollar. Here’s how to get it.</em></p>
 
 Do you need to safely sell your home in the Seattle area amid the health crisis? Do you want to get top dollar? **I help homeowners sell for maximum profit,** even if they have property condition issues.&nbsp;
 

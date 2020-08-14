@@ -29,6 +29,6 @@ If this sounds too good to be true, it’s not. However, the funds are limited, 
 
 {% include pullquote.html %}
 
-<a href="mailto:kwasib@kwasihomes.com">Message me</a> anytime, 24/7, and request your free guide. If you have other questions about real estate, contact me with those too. I would love to help you in any way I can.
+<a href="mailto:kwasib@kwasihomes.com"><u>Message me</u></a> anytime, 24/7, and request your free guide. If you have other questions about real estate, contact me with those too. I would love to help you in any way I can.
 
 <p style="text-align: center; font-size: 26px;">-Register <a href="http://www.recordhomesalesprice.com/" target="_blank">Here-</a></p>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'If You Need to Sell, I Have the Answer'
+title: The Ultimate Solution To Sell Your HOME For Top Dollar is Here
 date: 2020-08-10 21:03:32
 tags:
   - Home Seller Tips
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 5c-KfinWz6M
+youtube_code: tnbsgNi7AWo
 ---
 
 {% include youtube.html %}
@@ -30,3 +30,5 @@ If this sounds too good to be true, it’s not. However, the funds are limited, 
 {% include pullquote.html %}
 
 Message me anytime, 24/7, and request your free guide. If you have other questions about real estate, contact me with those too. I would love to help you in any way I can.
+
+<p style="text-align: center;">-Register <a href="http://www.recordhomesalesprice.com/" target="_blank">Here-</a></p>

@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: I wrote a free guide for how to sell for top dollar. Here’s how to get it.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kwasi+Bowie/2020/Seattle+Real+Estate+Agent-+direct+offer+2.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kwasi+Bowie/2020/Seattle+Real+Estate+Agent-+direct+offer+3.mp4
 pullquote: This is all in my free guide.
 enclosure_type: video/mp4
 enclosure_time:

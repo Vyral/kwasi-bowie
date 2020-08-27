@@ -31,4 +31,6 @@ There are two virtual agent services that can help you gain much more attention 
 
 Both of these marketing options can boost the exposure for your listing, which is critical for you to get top dollar or to even set the new record sales price for your area.
 
-If you’re interested in learning how to take advantage of these marketing options, click here to request your free how-to guide. If you have any questions, don’t hesitate to reach out to us. We’d love to help you.
+If you are thinking of buying, selling, or need to do both at the same time I have THE BEST RESOURCE for you! I have put together a FREE Guide “Secrets To Record Setting Home Sales Price” as well as some information on the Ultimate Solution To Buy Your Dream Home Before You Sell Your Current House. 
+
+If you would just like the FREE Guide please email me at <a href="mailto:kwasib@kwasihomes.com?My%20FREE%20Guide">kwasib@kwasihomes.com</a> and give me your FULL NAME and ADDRESS you want me to mail your guide.

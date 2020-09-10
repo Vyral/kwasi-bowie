@@ -23,7 +23,7 @@ youtube_code: 0KTujQIbqKc
 
 The real estate market is like toilet paper. Why? Think back to the start of the pandemic when trying to get toilet paper caused a frenzy. That’s what real estate is like in a low inventory, low interest market.&nbsp;
 
-Instead of homes being completely out of stock, for real estate buyers, it means getting beaten out on multiple offers, spending money on pre-inspections but not getting the house, or you simply can’t find “the one.” **Some of you are like the store stocking toilet paper; you not only have to buy, you also have to sell.** However, unlike the store, you can’t just sell out of the product. When you sell your home, you need to have somewhere to go, or you could find yourself with an empty toilet paper roll… out of luck.
+Instead of homes being completely out of stock, for real estate buyers, it means getting beaten out on multiple offers, spending money on pre-inspections but not getting the house, or you simply being unable to find “the one.” **Some of you are like the store stocking toilet paper; you not only have to buy, you also have to sell.** However, unlike the store, you can’t just sell out of the product. When you sell your home, you need to have somewhere to go, or you could find yourself with an empty toilet paper roll… out of luck.
 
 {% include pullquote.html %}
 

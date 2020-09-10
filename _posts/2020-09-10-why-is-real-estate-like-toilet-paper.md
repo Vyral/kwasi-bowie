@@ -19,7 +19,7 @@ youtube_code: 0KTujQIbqKc
 
 {% include youtube.html %}
 
-Our market is like buying toilet paper during the pandemic—in a frenzy.
+<p style="text-align: center;"><em>Our market is like buying toilet paper during the pandemic—in a frenzy.</em></p>
 
 The real estate market is like toilet paper. Why? Think back to the start of the pandemic when trying to get toilet paper caused a frenzy. That’s what real estate is like in a low inventory, low interest market.&nbsp;
 

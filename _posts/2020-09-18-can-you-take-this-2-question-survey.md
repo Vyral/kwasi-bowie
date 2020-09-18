@@ -21,4 +21,4 @@ youtube_code: QZp0RGdOot0
 
 Are you thinking of buying or selling a home but feel that something’s holding you back? After months of social distancing, more and more people want to move, but not everyone thinks they can.
 
-I’m interested to know about the obstacles you’re facing and how I can point you in the right direction of someone who can help. Follow[this link](https://forms.gle/EYiwShPRw6vZRRn3A)to answer a two-question survey so I can start helping. To learn more, watch my short video above.
+I’m interested to know about the obstacles you’re facing and how I can point you in the right direction of someone who can help. Follow [this link](https://forms.gle/EYiwShPRw6vZRRn3A) to answer a two-question survey so I can start helping. To learn more, watch my short video above.

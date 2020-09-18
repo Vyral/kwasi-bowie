@@ -17,7 +17,7 @@ youtube_code: QZp0RGdOot0
 
 {% include youtube.html %}
 
-Take this short survey so I can start helping out today.
+<p style="text-align: center;"><em>Take this short survey so I can start helping out today.</em></p>
 
 Are you thinking of buying or selling a home but feel that something’s holding you back? After months of social distancing, more and more people want to move, but not everyone thinks they can.
 

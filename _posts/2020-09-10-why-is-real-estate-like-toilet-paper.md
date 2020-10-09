@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Is Real Estate Like Toilet Paper?
-date: 2020-09-10 17:19:37
+date: 2020-09-10 17:19:00
 tags:
   - Market Update
 excerpt: Our market is like buying toilet paper during the pandemic—in a frenzy.
@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 0KTujQIbqKc
+youtube_code: R9uvq9QXVqQ
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Our market is like buying toilet paper during the pandemic—in a frenzy.</em></p>
+*Our market is like buying toilet paper during the pandemic—in a frenzy.*
 
 The real estate market is like toilet paper. Why? Think back to the start of the pandemic when trying to get toilet paper caused a frenzy. That’s what real estate is like in a low inventory, low interest market.&nbsp;
 
@@ -27,10 +27,12 @@ Instead of homes being completely out of stock, for real estate buyers, it means
 
 {% include pullquote.html %}
 
-This could mean multiple moves, moving in with in-laws or friends, renting a house (which can be hard to find and require a lengthy lease), or moving into a vacation rental (which can be pricey). All of these are solutions, but they’re not ideal because you still need to eventually buy a home, and **you’ll be competing in a frenzied market.&nbsp;**
+This could mean multiple moves, moving in with in-laws or friends, renting a house (which may require a lengthy lease), or moving into a vacation rental (which can be pricey). All of these are solutions, but they’re not ideal because you still need to eventually buy a home, and **you’ll be competing in a frenzied market.&nbsp;**
 
 As you may have guessed, the owner of the store is likely not out of toilet paper in his own house. Like the store owner, you need an advantage to get the property you want with no bidding wars, wasted money, or heartbreak. Luckily for you, I have the answer.&nbsp;
 
-The silent seller solution helps you find a home before it comes onto the market. Not only will you find the house before anyone knows it’s for sale, but the entire process is also less stressful and less expensive. **To learn more about this great silent seller solution, visit my website today.**
+I’m giving away my 18 Secret Strategies To Win in Multiple Offer Situations absolutely FREE.
 
-If you have questions about anything else concerning real estate, please call or email me. I would love to help you.
+Not only will you learn how to Win In a Multiple Offer Situations but I'm also offering to show you how to find your dream home off-market and avoid bidding wars altogether\!
+
+To get your free guide and learn how to buy your dream home off-market click the button below.

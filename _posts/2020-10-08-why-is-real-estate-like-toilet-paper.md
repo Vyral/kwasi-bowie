@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Is Real Estate Like Toilet Paper?
-date: 2020-09-10 17:19:00
+date: 2020-10-08 17:19:00
 tags:
   - Market Update
 excerpt: Our market is like buying toilet paper during the pandemic—in a frenzy.
@@ -19,7 +19,7 @@ youtube_code: R9uvq9QXVqQ
 
 {% include youtube.html %}
 
-*Our market is like buying toilet paper during the pandemic—in a frenzy.*
+<p style="text-align: center;"><em>Our market is like buying toilet paper during the pandemic—in a frenzy.</em></p>
 
 The real estate market is like toilet paper. Why? Think back to the start of the pandemic when trying to get toilet paper caused a frenzy. That’s what real estate is like in a low inventory, low interest market.&nbsp;
 

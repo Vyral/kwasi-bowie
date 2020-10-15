@@ -37,4 +37,4 @@ Not only will you learn how to Win In a Multiple Offer Situations but I'm also o
 
 To get your free guide and learn how to buy your dream home off-market click the button below.
 
-<a target="_blank" href="http://www.winningmultipleofferstrategy.com/"><button>Get Your FREE Guide >></button></a>
+<div style="text-align: center;"><a target="_blank" href="http://www.winningmultipleofferstrategy.com/"><button>Get Your FREE Guide >></button></a></div>

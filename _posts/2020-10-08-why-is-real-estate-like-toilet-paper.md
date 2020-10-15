@@ -36,3 +36,5 @@ I’m giving away my 18 Secret Strategies To Win in Multiple Offer Situations ab
 Not only will you learn how to Win In a Multiple Offer Situations but I'm also offering to show you how to find your dream home off-market and avoid bidding wars altogether\!
 
 To get your free guide and learn how to buy your dream home off-market click the button below.
+
+<a target="_blank" href="http://www.winningmultipleofferstrategy.com/"><button>Get Your FREE Guide >></button></a>

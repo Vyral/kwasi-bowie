@@ -17,7 +17,7 @@ youtube_code: ilzDllHflEg
 
 {% include youtube.html %}
 
-Here are three tips on how to win in a multiple offer situation.
+<p style="text-align: center;"><em>Here are three tips on how to win in a multiple offer situation.</em></p>
 
 If you are in the housing market right now, you know the market is still hot. With a hot market comes bidding wars. So the question is: How do you give yourself the best shot at getting the house without overpaying or taking too many risks? Today I'm going to share three tips from my guide, “18 Secret Strategies To Win In Multiple Offer Situations.” You can download the entire guide by clicking here.
 

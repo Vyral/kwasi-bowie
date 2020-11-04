@@ -19,7 +19,9 @@ youtube_code: o6m0hYbOqY4
 
 <p style="text-align: center;"><em>Here are three tips on how to win in a multiple-offer situation.</em></p>
 
-If you are in the housing market right now, you know the market is still hot. With a hot market comes bidding wars. So the question is: How do you give yourself the best shot at getting the house you want without overpaying or taking too many risks? Today I'm going to share three tips from my guide, “18 Secret Strategies to Win In Multiple Offer Situations.” You can download the entire guide by clicking here.
+If you are in the housing market right now, you know the market is still hot. With a hot market comes bidding wars. So the question is: How do you give yourself the best shot at getting the house you want without overpaying or taking too many risks? Today I'm going to share three tips from my guide, “18 Secret Strategies to Win In Multiple Offer Situations.” You can download the entire guide by clicking the button:
+
+<div style="text-align: center;"><a target="_blank" href="http://www.winningmultipleofferstrategy.com/"><button>Get Your FREE Guide >></button></a></div>
 
 **1\. Don't write a contingent offer.** If you need the money from your current house to use as the down payment on a new house, I understand. However, there are alternatives to writing a contingent offer. For instance, my company, Compass, has a special program where you can get a bridge loan for the down payment and closing costs, and we will cover up to six months of payments. Why would you take the risk of losing the house when you could use a program like that?
 

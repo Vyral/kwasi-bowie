@@ -6,13 +6,13 @@ tags:
   - Home Buyer Tips
 excerpt: Here are three tips on how to win in a multiple offer situation.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kwasi+Bowie/2020/Multi_Offer___Vyral_Video+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Kwasi+Bowie/2020/How+Can+You+Win+in+a+Multiple-Offer+Situation_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 5PVtvhFDKnM
+youtube_code: o6m0hYbOqY4
 ---
 
 {% include youtube.html %}

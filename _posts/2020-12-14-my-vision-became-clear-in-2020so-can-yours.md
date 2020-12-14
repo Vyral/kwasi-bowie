@@ -20,7 +20,7 @@ youtube_code: LjlMjs--J_c
 
 {% include youtube.html %}
 
-Despite everything that’s happened in 2020, I’m grateful.
+<p style="text-align: center;"><em>Despite everything that’s happened in 2020, I’m grateful.</em></p>
 
 Today I want to wish you a merry Christmas and a happy New Year.&nbsp;
 

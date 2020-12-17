@@ -24,7 +24,7 @@ youtube_code: LjlMjs--J_c
 
 Today I want to wish you a merry Christmas and a happy New Year.&nbsp;
 
-What a year 2020 has been\! I remember at the end of 2019 that many experts in the personal development world were designating 2020 as the year of perfect vision, and if accomplishing the goals for your perfect vision. Nobody saw the pandemic coming, but 2020 can still be the year of perfect vision.
+What a year 2020 has been\! I remember at the end of 2019 that many experts in the personal development world were designating 2020 as the year of perfect vision, and accomplishing the goals for your perfect vision. Nobody saw the pandemic coming, but 2020 can still be the year of perfect vision.
 
 {% include pullquote.html %}
 

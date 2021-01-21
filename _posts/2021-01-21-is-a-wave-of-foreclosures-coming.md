@@ -5,7 +5,8 @@ date: 2021-01-21 16:48:47
 tags:
   - Market Update
 excerpt: Here are three reasons we likely won’t see a wave of foreclosures soon.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kwasi+Bowie/2021/Seattle+Real+Estate+Agent_+Is+a+Foreclosure+Wave+Coming_.mp4
 pullquote: Today’s homeowners have an abundance of equity.
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: l0q073XtG3w
 
 {% include youtube.html %}
 
-Here are three reasons we likely won’t see a wave of foreclosures soon.
+<p style="text-align: center;"><em>Here are three reasons we likely won’t see a wave of foreclosures soon.</em></p>
 
 Is a foreclosure wave coming? Given the massive increase in unemployment this past year, it’s reasonable to assume there’s a colossal surge of foreclosures forthcoming, just like in 2008. However, history is not expected to repeat itself this time. I recently read [an article](https://www.keepingcurrentmatters.com/article/3-graphs-that-prove-were-not-headed-for-a-foreclosure-crisis/)that succinctly describes why not, and I wanted to share some of that information with you.&nbsp;
 

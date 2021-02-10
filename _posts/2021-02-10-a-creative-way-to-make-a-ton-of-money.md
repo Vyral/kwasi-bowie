@@ -17,7 +17,7 @@ youtube_code: A22n2Y5fHpQ
 
 {% include youtube.html %}
 
-Here’s a simple way to make a bunch of money in real estate right now.
+<p style="text-align: center;"><em>Here’s a simple way to make a bunch of money in real estate right now.</em></p>
 
 Today I’m sharing a creative, simple way to make a ton of money when you buy a certain type of house in Seattle. In 2019, Seattle went through a big zoning change where some properties went from single-family to multifamily zoning. **Now you can build multiple homes where before you could only build one.** Of course, this has been happening for years, but the zoning changes meant more properties have this multifamily zoning.&nbsp;
 

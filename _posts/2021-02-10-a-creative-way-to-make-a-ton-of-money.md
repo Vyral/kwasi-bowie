@@ -32,3 +32,5 @@ I want to be very clear about one thing: These are not tear-down houses. **These
 Some of you may be a bit savvy about this and are wondering how you can sell off the back lots if you have a loan on it. That’s the secret sauce you have to call me for; I sold my neighbor’s lots to a builder, and they had a loan on their house. It’s a simple process, but you need to have the right team get it done for you.&nbsp;
 
 If you’re a buyer who may be interested in this or a seller who got upzoned and want to sell off your back lots (or your entire house), let’s talk. There’s no sales pitch or obligation, just a real conversation. [**Make an appointment right in my calendar by using this link.**](https://calendly.com/kwasib/video-conference?month=2021-02) You can also call or text me to make an appointment or if you have any other questions. I would love to help you.
+
+<a href="https://calendly.com/kwasib/15min" target="_blank"><button type="button">Make an appointment with me!</button></a>

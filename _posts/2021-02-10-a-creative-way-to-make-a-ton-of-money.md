@@ -33,4 +33,4 @@ Some of you may be a bit savvy about this and are wondering how you can sell off
 
 If you’re a buyer who may be interested in this or a seller who got upzoned and want to sell off your back lots (or your entire house), let’s talk. There’s no sales pitch or obligation, just a real conversation. [**Make an appointment right in my calendar by using this link.**](https://calendly.com/kwasib/video-conference?month=2021-02) You can also call or text me to make an appointment or if you have any other questions. I would love to help you.
 
-<a href="https://calendly.com/kwasib/15min" target="_blank"><button type="button">Make an appointment with me!</button></a>
+<p style="text-align: center;"><a href="https://calendly.com/kwasib/15min" target="_blank"><button type="button">Make an appointment with me!</button></a></p>

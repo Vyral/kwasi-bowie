@@ -5,7 +5,8 @@ date: 2021-02-24 19:16:16
 tags:
   - Real Estate
 excerpt: Here’s how real estate investors are “hacking” their homes in today’s market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kwasi+Bowie/2021/Seattle+Real+Estate+Agent_+House+Hacking+101.mp4
 pullquote: Research the area you’re thinking of buying in first.
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: E6Wz7yDbe8c
 
 {% include youtube.html %}
 
-Here’s how real estate investors are “hacking” their homes in today’s market.
+<p style="text-align: center;"><em>Here’s how real estate investors are “hacking” their homes in today’s market.</em></p>
 
 What is house hacking? It describes a situation where the owner of a house rents out a portion of the house, like rooms or basements, to bring in extra income to offset their mortgage and other living expenses. In some situations, this could cover all of the mortgage and even create cash flow.
 

@@ -33,4 +33,4 @@ Creating a second unit or permitting a livable space where there is already a ki
 
 If you have any questions about house hacking, real estate investing, or starting the process, give me a call or send me an email today. There is no obligation and no sales pitch, just a real conversation. You can also use **[this link](https://calendly.com/kwasib/video-conference)** to schedule a call directly in my calendar. I look forward to hearing from you soon.
 
-<p style="text-align: center;"><a href="https://calendly.com/kwasib/15min" target="_blank"><button style="font-size: 22px;">Schedule an Appointment with me</button></a></p>
+<p style="text-align: center;"><a href="https://calendly.com/kwasib/15min" target="_blank"><button style="font-size: 22px;">Schedule an Appointment Here</button></a></p>

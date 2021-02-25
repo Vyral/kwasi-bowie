@@ -32,3 +32,5 @@ One pro tip for those who think house hacking might be for them is to make sure 
 Creating a second unit or permitting a livable space where there is already a kitchen may be easier than you think\! **You can add value to the house and “hack” it at the same time.** Now that is a win/win situation\!
 
 If you have any questions about house hacking, real estate investing, or starting the process, give me a call or send me an email today. There is no obligation and no sales pitch, just a real conversation. You can also use **[this link](https://calendly.com/kwasib/video-conference)** to schedule a call directly in my calendar. I look forward to hearing from you soon.
+
+<a href="https://calendly.com/kwasib/15min" target="_blank"><button>Schedule an Appointment with me</button></a>

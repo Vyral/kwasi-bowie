@@ -23,14 +23,12 @@ What is house hacking? It describes a situation where the owner of a house rents
 
 **This is a great way to start real estate investing and even allows some buyers to buy a house for more money** in an area they wouldn’t have otherwise been able to move into.
 
-The origins of house hacking go back to the concept of buying a small multifamily investment property like a duplex, triplex, or fourplex, living in one of the units, and renting out the others.
-
 {% include pullquote.html %}
 
-The advantage of buying a small multifamily property is that you can use the income of the other units to qualify for a higher loan amount.&nbsp;
+The origins of house hacking go back to the concept of buying a small multifamily investment property like a duplex, triplex, or fourplex, living in one of the units, and renting out the others. The advantage of buying a small multifamily property is that you can use the income of the other units to qualify for a higher loan amount.&nbsp;
 
-One pro tip for those who think house hacking might be for them is to make sure you do your research on the area you are thinking of buying the property in. **For instance, Seattle is now very relaxed with creating DADUs and AADUs.**
+One pro tip for those who think house hacking might be for them is to make sure you do your research on the area in which you're thinking of buying the property. **For instance, Seattle is now very relaxed with creating DADUs and AADUs.**
 
 Creating a second unit or permitting a livable space where there is already a kitchen may be easier than you think\! **You can add value to the house and “hack” it at the same time.** Now that is a win/win situation\!
 
-If you have any questions about house hacking, real estate investing, or just questions about starting the process, give me a call or send me an email today. There is no obligation and no sales pitch, just a real conversation. You can also use **[this link](https://calendly.com/kwasib/video-conference)** to schedule a call directly in my calendar. I look forward to hearing from you soon.
+If you have any questions about house hacking, real estate investing, or starting the process, give me a call or send me an email today. There is no obligation and no sales pitch, just a real conversation. You can also use **[this link](https://calendly.com/kwasib/video-conference)** to schedule a call directly in my calendar. I look forward to hearing from you soon.

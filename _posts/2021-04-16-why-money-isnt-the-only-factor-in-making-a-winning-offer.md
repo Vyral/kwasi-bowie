@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Money Isn’t the Only Factor in Making a Winning Offer
-date: 2021-04-16 18:16:11
+date: 2021-04-16 18:16:00
 tags:
   - Home Seller Tips
 excerpt: Here’s what buyers should consider adding to their bids in this market.
@@ -31,3 +31,5 @@ Yes, bidding wars are real and aggressive. Yes, offers are going far above askin
 **These may sound scary, but it all comes down to calculated risks.** You have to take some chances in order to get the house you want, but keep in mind that you often aren’t losing anything. For example, earnest money goes toward your purchase price if you buy the house, and the money you’d use to cover appraisal differences can still go in your pocket.&nbsp;
 
 Whether you’re a buyer or a seller, real estate can be difficult to navigate. Hiring a professional can make the entire process much easier and ensure you walk away without spending a fortune. If you’re ready to jump into the market, or if you have any questions, feel free to reach out to me. I look forward to hearing from you soon.
+
+#### [**CLICK&nbsp; HERE TO SCHEDULE AN APPOINTMENT**](https://calendly.com/kwasib/15min?month=2021-04){: target="_blank" rel="noopener"}

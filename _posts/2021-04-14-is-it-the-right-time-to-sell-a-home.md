@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is It the Right Time to Sell a Home?
-date: 2021-04-14 21:04:24
+date: 2021-04-14 21:04:00
 tags:
   - Home Seller Tips
 excerpt: 'Here’s my answer when someone asks, “Is now a good time to sell?”'
@@ -31,3 +31,5 @@ Is now a good time to sell a home in the Seattle real estate market? **The answe
 Compass has a bridge loan program that covers up to six months of your new home’s payments. This will allow you to be a non-contingent buyer of your new home without having to sell first.
 
 If you’re thinking about buying, selling, or want to learn more about the Compass bridge loan program, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+
+#### [CLICK &nbsp;HERE TO SCHEDULE AN APPOINTMENT](https://calendly.com/kwasib/15min?month=2021-04){: target="_blank" rel="noopener"}

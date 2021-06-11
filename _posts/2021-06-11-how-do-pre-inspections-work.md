@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do Pre-Inspections Work?
-date: 2021-06-11 11:56:17
+date: 2021-06-11 08:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s the role that pre-inspections play in this hot Seattle market.

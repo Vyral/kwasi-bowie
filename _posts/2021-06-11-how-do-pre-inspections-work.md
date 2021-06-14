@@ -28,16 +28,10 @@ In a normal market, the buyer would do an inspection after mutual acceptance as 
 
 {% include pullquote.html %}
 
-&nbsp;
-
 **In the ridiculously hot Seattle real estate market, however, you have to do a pre-inspection before you write the offer in most cases just to even have a chance\!**
 
-So my pro tip of the day is if you are not going to get aggressive and write an offer that is going
+So my pro tip of the day is if you are not going to get aggressive and write an offer that is going to win, don’t waste your money on a pre-inspection.
 
-to win, don’t waste your money on a pre-inspection.
-
-If you want to do a FREE, no-obligation “Writing a Winning Offer” strategy session, just click the
-
-link on the side of the page and schedule a time in my calendar. During this session, you will learn the strategies that are working in this market and find out which ones are right for you\! There is no obligation and no sales pitch, just a real conversation.
+If you want to do a FREE, no-obligation “Writing a Winning Offer” strategy session, just click the link on the side of the page and schedule a time in my calendar. During this session, you will learn the strategies that are working in this market and find out which ones are right for you\! There is no obligation and no sales pitch, just a real conversation.
 
 I hope you found this video informative. If you have any questions for me, don't hesitate to reach out via phone or email. I look forward to hearing from you soon.

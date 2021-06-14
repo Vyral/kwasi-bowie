@@ -20,13 +20,15 @@ youtube_code: YUIDaNW407o
 
 Today&nbsp; I’m starting a series I’ve titled “Hot Topics in Hot Markets.” Today’s topic is pre-inspections.
 
-In a ridiculously hot market, like we have in Seattle, **the only difference between a pre-inspection and a regular inspection is when you get the inspection.** The inspections are the same, but in one case you have an accepted offer and in the other, you are not. The purpose of a pre-inspection is you spending the money upfront and doing what you have to do to get your offer accepted.
+In a ridiculously hot market, like we have in Seattle, **the only difference between a pre-inspection and a regular inspection is when you get the inspection.** The inspections are the same, but you have an accepted offer in one case and in the other, you don't. The purpose of a pre-inspection is you spending the money upfront and doing what you have to do to get your offer accepted.
 
 **Inspections are not pass/fail.** They are just telling you the condition of the house, and then you can decide whether you still want to buy it or not.
 
 In a normal market, the buyer would do an inspection after mutual acceptance as part of the inspection contingency in their offer. I have talked with two people in two different markets who said that even though the market was hot, they were still able to do their inspection after mutual acceptance.
 
 {% include pullquote.html %}
+
+&nbsp;
 
 **In the ridiculously hot Seattle real estate market, however, you have to do a pre-inspection before you write the offer in most cases just to even have a chance\!**
 

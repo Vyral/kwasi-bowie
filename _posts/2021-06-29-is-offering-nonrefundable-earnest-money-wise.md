@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Offering Nonrefundable Earnest Money Wise?
-date: 2021-06-25 14:20:02
+date: 2021-06-29 08:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s some advice for handling earnest money in a hot real estate market.

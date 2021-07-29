@@ -22,12 +22,12 @@ youtube_code: mvIfX2522xw
 
 Today we’ll talk a little about bridge loans—specifically, the Compass Bridge Loan Advance program and how you can use it to buy your next home (non-contingent) before you sell your current one.
 
-Let’s say you’ve seen a house you want to buy but need to sell your current house to buy that next one. By using the Compass Bridge Loan Advance program, **you can get funds like your down payment and closing costs to buy your next house as well as have your bridge loan payments covered for up to six months.**
+Let's say you want to buy a house but need to sell your current home first to afford it. By using the Compass Bridge Loan Advance program, **you can get funds for your down payment, closing costs, and bridge loan payments covered for up to six months.**
 
 {% include pullquote.html %}
 
-What’s even better is that you can also use the program to upgrade your current house to sell for even more money with no interest or fees on the money we front to you\! It’s free money that helps you sell for more money with no risk.
+What’s even better is that you can also use the program to upgrade your current house to sell for even more money with no interest or fees on the money we front to you\! It’s free money that helps you sell for more with no risk.
 
-Look, in this hot market, buyers need a competitive advantage to get the house they want, and writing contingent offers won’t help you. If you want to talk more about the Compass Bridge Loan Advance program or have any real estate questions at all, don’t hesitate to give me a call. No sales pitch, no obligation. I look forward to connecting with you.
+In this hot market, buyers need a competitive advantage to get the house they want, and writing contingent offers won’t help you. If you want to talk more about the Compass Bridge Loan Advance program or have any real estate questions at all, don’t hesitate to give me a call. No sales pitch, no obligation. I look forward to connecting with you.
 
 &nbsp;

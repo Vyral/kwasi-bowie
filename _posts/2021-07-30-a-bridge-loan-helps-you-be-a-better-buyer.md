@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Bridge Loan Helps You Be a Better Buyer
-date: 2021-07-29 14:55:56
+date: 2021-07-30 12:20:00
 tags:
   - Home Buyer Tips
 excerpt: A bridge loan can help you buy now and sell later in this market.

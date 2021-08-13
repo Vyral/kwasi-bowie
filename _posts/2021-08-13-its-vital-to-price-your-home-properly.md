@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It’s Vital to Price Your Home Properly
-date: 2021-08-09 21:34:02
+date: 2021-08-13 09:34:00
 tags:
   - Home Seller Tips
 excerpt: Here’s why pricing your home properly is crucial and how it’s like dating.

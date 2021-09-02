@@ -5,7 +5,8 @@ date: 2021-09-02 11:47:00
 tags:
   - Local Community
 excerpt: We’re extending our Mary’s Place back-to-school drive through September.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kwasi+Bowie/2021/Back+to+School+Donations+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:

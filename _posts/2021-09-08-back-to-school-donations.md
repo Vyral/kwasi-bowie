@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Back to School Donations
-date: 2021-09-02 11:47:00
+date: 2021-09-08 11:55:00
 tags:
   - Local Community
 excerpt: We’re extending our Mary’s Place back-to-school drive through September.
